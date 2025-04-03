@@ -916,4 +916,4 @@ elif page == "Image Gallery":
 
 # Footer
 st.markdown("---")
-st.markdown("<p style='text-align: center;'>National Poster Presentation Event Dashboard | Created with Streamlit</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center;'>National Poster Presentation Event Dashboard | Created by Sagar Sharma</p>", unsafe_allow_html=True)
