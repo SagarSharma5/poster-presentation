@@ -50,7 +50,7 @@ st.markdown("""
     }
     .card {
         padding: 1rem;
-        border-radius: 0.8rem;
+        border-radius: 1.5rem;
         background: linear-gradient(145deg, #f0f2f6, #ffffff);
         margin-bottom: 1rem;
         border-left: 4px solid #FF4500;
@@ -59,7 +59,7 @@ st.markdown("""
     .metric-card {
         text-align: center;
         padding: 1.2rem;
-        border-radius: 1rem;
+        border-radius: 2rem;
         background: linear-gradient(135deg, #FFC107, #FF9800); /* Bright yellow to orange gradient */
         box-shadow: 0 4px 15px rgba(0,0,0,0.1);
         transition: transform 0.3s ease;
@@ -137,7 +137,7 @@ st.markdown("""
     
     /* Enhance dataframe styling */
     .stDataFrame {
-        border-radius: 0.5rem !important;
+        border-radius: 1.2rem !important;
         overflow: hidden !important;
         border: 1px solid #FF8C00 !important;
     }
@@ -145,7 +145,7 @@ st.markdown("""
     /* Enhance expander styling */
     .streamlit-expanderHeader {
         background-color: #E3F2FD !important;
-        border-radius: 0.5rem !important;
+        border-radius: 1.2rem !important;
         border-left: 4px solid #FF4500 !important;
         font-weight: 500 !important;
     }
@@ -438,7 +438,8 @@ if page == "Overview Dashboard":
             title_font=dict(size=20, color='#111111'),
             plot_bgcolor='rgba(0,0,0,0)',
             paper_bgcolor='rgba(0,0,0,0)',
-            font=dict(color='#111111')
+            font=dict(color='#111111'),
+            legend=dict(font=dict(color='#111111'))
         )
         fig_track.update_traces(textposition='inside', textinfo='percent+label', textfont=dict(color='#111111'))
         st.plotly_chart(fig_track, use_container_width=True)
@@ -460,7 +461,8 @@ if page == "Overview Dashboard":
             paper_bgcolor='rgba(0,0,0,0)',
             xaxis=dict(showgrid=False, tickfont=dict(color='#111111')),
             yaxis=dict(showgrid=True, gridcolor='rgba(0,0,0,0.1)', tickfont=dict(color='#111111')),
-            font=dict(color='#111111')
+            font=dict(color='#111111'),
+            legend=dict(font=dict(color='#111111'))
         )
         st.plotly_chart(fig_day, use_container_width=True)
     
@@ -484,7 +486,8 @@ if page == "Overview Dashboard":
             paper_bgcolor='rgba(0,0,0,0)',
             xaxis=dict(showgrid=False, tickfont=dict(color='#111111')),
             yaxis=dict(showgrid=True, gridcolor='rgba(0,0,0,0.1)', tickfont=dict(color='#111111')),
-            font=dict(color='#111111')
+            font=dict(color='#111111'),
+            legend=dict(font=dict(color='#111111'))
         )
         st.plotly_chart(fig_scores, use_container_width=True)
     
@@ -508,7 +511,8 @@ if page == "Overview Dashboard":
             paper_bgcolor='rgba(0,0,0,0)',
             xaxis=dict(showgrid=False, tickfont=dict(color='#111111')),
             yaxis=dict(showgrid=True, gridcolor='rgba(0,0,0,0.1)', tickfont=dict(color='#111111')),
-            font=dict(color='#111111')
+            font=dict(color='#111111'),
+            legend=dict(font=dict(color='#111111'))
         )
         fig_state.update_layout(xaxis_tickangle=-45)
         st.plotly_chart(fig_state, use_container_width=True)
