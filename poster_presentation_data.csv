@@ -1,0 +1,401 @@
+Participant_ID,Name,Track,Day,State,College,Content_Score,Design_Score,Presentation_Score,Overall_Score,Feedback,Topic
+P001,Allison Hill,Engineering Sciences,Day 1,Haryana,BITS Pilani,6.1,8.7,8.4,7.7,The presentation on Machine Learning lacked more comprehensive evidence.,Machine Learning
+P002,Noah Rhodes,Physical Sciences,Day 1,Maharashtra,IIT Madras,6.2,8.0,7.8,7.3,"Standard research on Materials Science, could use more better organized perspectives.",Materials Science
+P003,Angie Henderson,Life Sciences,Day 4,Punjab,BITS Pilani,8.8,5.8,7.1,7.2,Very informative poster about Genetic Engineering. The results were detailed.,Genetic Engineering
+P004,Daniel Wagner,Engineering Sciences,Day 1,West Bengal,IIT Kanpur,9.2,8.0,9.0,8.7,"Standard research on IoT Applications, could use more clearer perspectives.",IoT Applications
+P005,Cristian Santos,Physical Sciences,Day 1,Rajasthan,BITS Hyderabad,9.4,6.8,6.0,7.4,Very informative poster about Chemical Synthesis. The results were detailed.,Chemical Synthesis
+P006,Connie Lawrence,Engineering Sciences,Day 2,Karnataka,Pune University,7.3,9.2,5.8,7.4,Impressive work on IoT Applications. The analysis was innovative and thorough.,IoT Applications
+P007,Abigail Shaffer,Life Sciences,Day 2,Tamil Nadu,Bangalore University,6.3,9.6,8.4,8.1,Impressive work on Biotechnology. The analysis was innovative and thorough.,Biotechnology
+P008,Gina Moore,Life Sciences,Day 1,Telangana,Pune University,5.3,9.6,7.8,7.6,"Good presentation on Neuroscience, though the data could be better organized.",Neuroscience
+P009,Gabrielle Davis,Physical Sciences,Day 4,Tamil Nadu,BITS Pilani,6.2,7.8,6.3,6.8,"Standard research on Materials Science, could use more better organized perspectives.",Materials Science
+P010,Ryan Munoz,Social Sciences,Day 2,Tamil Nadu,Amity University,5.5,5.2,5.5,5.4,"Decent work on Educational Reform, would benefit from more more focused examples.",Educational Reform
+P011,Monica Herrera,Engineering Sciences,Day 4,West Bengal,SRM Chennai,7.6,9.9,9.3,8.9,Excellent presentation on Robotics. The research methodology was insightful.,Robotics
+P012,Jamie Arnold,Social Sciences,Day 3,Karnataka,BITS Hyderabad,5.8,5.0,8.6,6.5,"Standard research on Educational Reform, could use more more detailed perspectives.",Educational Reform
+P013,Lisa Hensley,Engineering Sciences,Day 3,Kerala,Amity University,6.0,6.9,5.8,6.2,The study on Sustainable Architecture needs stronger clarification.,Sustainable Architecture
+P014,Michele Williams,Social Sciences,Day 4,Maharashtra,IIT Kanpur,9.4,9.2,6.5,8.4,Fascinating research on Cultural Studies. The conclusions were innovative.,Cultural Studies
+P015,Dylan Miller,Engineering Sciences,Day 4,Karnataka,VIT Vellore,5.6,7.4,7.7,6.9,Fascinating research on Machine Learning. The conclusions were rigorous.,Machine Learning
+P016,Brian Ramirez,Life Sciences,Day 2,Haryana,BITS Hyderabad,10.0,8.2,7.2,8.5,Interesting approach to Biotechnology. The methodology could be more detailed.,Biotechnology
+P017,Holly Wood,Life Sciences,Day 1,Telangana,IIT Bombay,7.8,7.9,5.0,6.9,Interesting approach to Ecology. The methodology could be more detailed.,Ecology
+P018,Derek Zuniga,Engineering Sciences,Day 1,Telangana,IIT Madras,6.2,8.3,6.1,6.9,Fascinating research on Sustainable Architecture. The conclusions were insightful.,Sustainable Architecture
+P019,Lisa Jackson,Physical Sciences,Day 2,Uttar Pradesh,Anna University,5.5,8.3,6.8,6.9,Excellent presentation on Materials Science. The research methodology was innovative.,Materials Science
+P020,Carla Gray,Engineering Sciences,Day 4,Haryana,Delhi University,6.2,6.0,7.2,6.5,Impressive work on Renewable Energy. The analysis was rigorous and thorough.,Renewable Energy
+P021,Margaret Hawkins DDS,Life Sciences,Day 1,Uttar Pradesh,VIT Vellore,5.3,10.0,9.2,8.2,The poster about Genetic Engineering needs more more coherent analysis.,Genetic Engineering
+P022,Patty Perez,Physical Sciences,Day 4,Uttar Pradesh,NIT Warangal,9.5,5.8,5.0,6.8,Great insights into Climate Modeling. The visual representation was detailed.,Climate Modeling
+P023,Ethan Adams,Physical Sciences,Day 4,Tamil Nadu,NIT Warangal,6.1,5.3,8.7,6.7,Impressive work on Astronomical Observations. The analysis was innovative and thorough.,Astronomical Observations
+P024,Tommy Walter,Engineering Sciences,Day 4,Rajasthan,Amity University,5.3,7.5,9.3,7.4,Excellent presentation on Machine Learning. The research methodology was comprehensive.,Machine Learning
+P025,Matthew Foster,Physical Sciences,Day 1,Punjab,NIT Surathkal,8.0,8.1,7.1,7.7,"Standard research on Chemical Synthesis, could use more more structured perspectives.",Chemical Synthesis
+P026,Judy Baker,Social Sciences,Day 2,Kerala,Delhi University,6.3,5.7,8.2,6.7,Excellent presentation on Economic Policy. The research methodology was innovative.,Economic Policy
+P027,Justin Baker,Physical Sciences,Day 1,Karnataka,VIT Vellore,7.5,5.7,6.7,6.6,Very informative poster about Materials Science. The results were detailed.,Materials Science
+P028,Stephanie Ross,Social Sciences,Day 2,Uttar Pradesh,VIT Vellore,8.1,9.9,8.3,8.8,Fascinating research on Cultural Studies. The conclusions were detailed.,Cultural Studies
+P029,Zachary Hicks,Engineering Sciences,Day 2,Gujarat,IIT Kanpur,8.7,5.8,6.4,7.0,Impressive work on Renewable Energy. The analysis was comprehensive and thorough.,Renewable Energy
+P030,Anthony Rodriguez,Social Sciences,Day 4,Gujarat,IIT Delhi,8.2,9.1,5.2,7.5,Very informative poster about Urban Development. The results were detailed.,Urban Development
+P031,Rebecca Henderson,Life Sciences,Day 4,Rajasthan,Anna University,5.0,5.4,9.4,6.6,The study on Ecology needs stronger clarification.,Ecology
+P032,James Ferrell,Social Sciences,Day 2,West Bengal,IIT Kharagpur,6.5,9.5,9.0,8.3,Research on Urban Development requires more more coherent methodology.,Urban Development
+P033,Tricia Valencia,Life Sciences,Day 1,Telangana,VIT Vellore,9.9,8.7,9.6,9.4,Very informative poster about Biotechnology. The results were comprehensive.,Biotechnology
+P034,Nathan Maldonado,Physical Sciences,Day 1,Tamil Nadu,Delhi University,9.0,9.3,9.1,9.1,Excellent presentation on Climate Modeling. The research methodology was rigorous.,Climate Modeling
+P035,Debra Davidson,Engineering Sciences,Day 4,Delhi,NIT Warangal,6.7,9.1,9.4,8.4,Very informative poster about Robotics. The results were rigorous.,Robotics
+P036,Jeffrey Chavez,Social Sciences,Day 3,Karnataka,BITS Pilani,8.2,7.0,9.9,8.4,Interesting approach to Cultural Studies. The methodology could be clearer.,Cultural Studies
+P037,Sherri Baker,Social Sciences,Day 2,Punjab,BITS Pilani,5.5,7.2,8.6,7.1,Fascinating research on Urban Development. The conclusions were insightful.,Urban Development
+P038,Cassandra Gaines,Engineering Sciences,Day 4,Punjab,NIT Warangal,5.2,7.2,7.6,6.7,The poster about IoT Applications needs more better designed analysis.,IoT Applications
+P039,Elizabeth Fowler,Physical Sciences,Day 1,Kerala,Delhi University,6.6,9.2,8.6,8.1,Impressive work on Chemical Synthesis. The analysis was rigorous and thorough.,Chemical Synthesis
+P040,Brittany Farmer,Social Sciences,Day 4,Haryana,BITS Hyderabad,5.6,7.1,9.7,7.5,"Good presentation on Behavioral Psychology, though the data could be more focused.",Behavioral Psychology
+P041,Paula Moreno,Social Sciences,Day 4,Rajasthan,IIT Bombay,6.4,7.1,7.9,7.1,"Decent work on Cultural Studies, would benefit from more better organized examples.",Cultural Studies
+P042,Fred Smith,Physical Sciences,Day 2,Rajasthan,Jadavpur University,8.3,6.4,8.3,7.7,Interesting approach to Materials Science. The methodology could be more detailed.,Materials Science
+P043,Sherry Decker,Social Sciences,Day 2,Delhi,IIT Kharagpur,5.2,9.9,8.1,7.7,"Decent work on Urban Development, would benefit from more better organized examples.",Urban Development
+P044,Anthony Humphrey,Life Sciences,Day 4,Uttar Pradesh,Pune University,5.7,8.4,9.5,7.9,The presentation on Microbiology lacked more robust evidence.,Microbiology
+P045,Angelica Tucker,Life Sciences,Day 2,Haryana,Amity University,5.3,6.2,9.2,6.9,Great insights into Biotechnology. The visual representation was insightful.,Biotechnology
+P046,Philip Cannon,Social Sciences,Day 4,Punjab,Amity University,9.2,7.7,9.5,8.8,"Decent work on Educational Reform, would benefit from more better organized examples.",Educational Reform
+P047,John Pierce,Social Sciences,Day 2,Kerala,BITS Pilani,7.4,6.2,7.2,6.9,"Good presentation on Behavioral Psychology, though the data could be more structured.",Behavioral Psychology
+P048,Shane Henderson,Social Sciences,Day 3,Rajasthan,IIT Madras,5.8,6.9,5.8,6.2,Great insights into Economic Policy. The visual representation was rigorous.,Economic Policy
+P049,Joshua Blair,Social Sciences,Day 4,West Bengal,IIT Delhi,9.2,6.9,8.8,8.3,The presentation on Economic Policy lacked more comprehensive evidence.,Economic Policy
+P050,Eric Carney,Physical Sciences,Day 4,Maharashtra,Mumbai University,8.8,9.3,9.8,9.3,Fascinating research on Astronomical Observations. The conclusions were insightful.,Astronomical Observations
+P051,Jessica Holmes,Life Sciences,Day 4,Delhi,BITS Pilani,7.4,6.9,8.3,7.5,"Good presentation on Biotechnology, though the data could be better organized.",Biotechnology
+P052,Danny Morgan,Life Sciences,Day 1,West Bengal,IIIT Hyderabad,8.3,5.4,7.1,6.9,The poster about Ecology needs more stronger analysis.,Ecology
+P053,Crystal Robinson,Social Sciences,Day 4,Telangana,NIT Warangal,6.6,8.8,6.9,7.4,"Decent work on Educational Reform, would benefit from more more structured examples.",Educational Reform
+P054,Mark Perez,Engineering Sciences,Day 4,Maharashtra,VIT Vellore,10.0,6.7,8.3,8.3,Interesting approach to Renewable Energy. The methodology could be clearer.,Renewable Energy
+P055,Shannon Jones,Life Sciences,Day 2,Maharashtra,SRM Chennai,6.2,7.4,5.6,6.4,The work on Microbiology could benefit from better designed references.,Microbiology
+P056,Michael Lewis,Social Sciences,Day 2,Punjab,SRM Chennai,8.9,5.8,6.6,7.1,"Nice effort on Urban Development, but the analysis needs to be more more focused.",Urban Development
+P057,Timothy Duncan,Physical Sciences,Day 4,Haryana,NIT Warangal,8.0,9.2,6.2,7.8,"Nice effort on Quantum Physics, but the analysis needs to be more more focused.",Quantum Physics
+P058,Richard Aguirre,Engineering Sciences,Day 1,Telangana,VIT Vellore,8.3,5.3,8.2,7.3,Great insights into Robotics. The visual representation was rigorous.,Robotics
+P059,Brent Jordan,Engineering Sciences,Day 4,Telangana,Bangalore University,7.2,8.7,9.8,8.6,Fascinating research on Machine Learning. The conclusions were rigorous.,Machine Learning
+P060,John Daniel,Physical Sciences,Day 4,Haryana,IIIT Hyderabad,6.6,6.2,9.7,7.5,Great insights into Astronomical Observations. The visual representation was comprehensive.,Astronomical Observations
+P061,Victoria Garcia,Physical Sciences,Day 4,Telangana,IIT Bombay,9.3,5.9,6.1,7.1,"Nice effort on Climate Modeling, but the analysis needs to be more more structured.",Climate Modeling
+P062,Gerald Hensley,Social Sciences,Day 1,Rajasthan,NIT Warangal,6.2,7.0,7.8,7.0,Great insights into Urban Development. The visual representation was rigorous.,Urban Development
+P063,Connor West,Physical Sciences,Day 1,Karnataka,BITS Hyderabad,7.0,6.2,8.3,7.2,Fascinating research on Materials Science. The conclusions were insightful.,Materials Science
+P064,Donald Wright,Social Sciences,Day 4,Haryana,VIT Vellore,6.8,7.3,6.5,6.9,Very informative poster about Cultural Studies. The results were detailed.,Cultural Studies
+P065,Jessica Callahan,Engineering Sciences,Day 2,Delhi,NIT Warangal,6.4,7.9,8.8,7.7,Interesting approach to Robotics. The methodology could be more detailed.,Robotics
+P066,Amber Kidd,Social Sciences,Day 2,Telangana,NIT Trichy,5.1,7.7,6.4,6.4,The study on Cultural Studies needs better designed clarification.,Cultural Studies
+P067,Tracy House,Life Sciences,Day 4,Karnataka,IIT Bombay,6.4,7.4,6.7,6.8,Research on Ecology requires more more robust methodology.,Ecology
+P068,Carol Tucker,Engineering Sciences,Day 1,West Bengal,Jadavpur University,7.9,8.4,5.8,7.4,Research on Renewable Energy requires more stronger methodology.,Renewable Energy
+P069,James Brown,Life Sciences,Day 1,Rajasthan,Anna University,8.0,8.1,8.9,8.3,Great insights into Ecology. The visual representation was detailed.,Ecology
+P070,William Baker,Physical Sciences,Day 3,Punjab,SRM Chennai,8.0,8.7,9.7,8.8,Very informative poster about Quantum Physics. The results were detailed.,Quantum Physics
+P071,Jordan Henderson,Engineering Sciences,Day 2,Delhi,NIT Trichy,5.4,5.0,7.3,5.9,"Nice effort on Sustainable Architecture, but the analysis needs to be more clearer.",Sustainable Architecture
+P072,Whitney Peters,Life Sciences,Day 3,Haryana,BITS Hyderabad,5.4,6.2,6.3,6.0,"Standard research on Biotechnology, could use more more detailed perspectives.",Biotechnology
+P073,Brittney Phillips,Physical Sciences,Day 1,Rajasthan,NIT Surathkal,9.5,9.1,5.4,8.0,Impressive work on Materials Science. The analysis was insightful and thorough.,Materials Science
+P074,Lauren Daniels,Social Sciences,Day 4,Karnataka,Bangalore University,8.5,9.7,7.5,8.6,Excellent presentation on Cultural Studies. The research methodology was insightful.,Cultural Studies
+P075,Amy Silva,Engineering Sciences,Day 4,Haryana,Delhi University,6.3,5.5,9.8,7.2,The study on Sustainable Architecture needs more comprehensive clarification.,Sustainable Architecture
+P076,Sarah Moore,Engineering Sciences,Day 3,Punjab,IIT Delhi,7.4,8.3,9.6,8.4,Fascinating research on Machine Learning. The conclusions were rigorous.,Machine Learning
+P077,Angela Lopez,Physical Sciences,Day 1,Uttar Pradesh,Mumbai University,6.7,8.4,9.3,8.1,Great insights into Climate Modeling. The visual representation was detailed.,Climate Modeling
+P078,Megan Young,Physical Sciences,Day 1,Uttar Pradesh,IIT Madras,6.3,5.6,8.9,6.9,The presentation on Astronomical Observations lacked more comprehensive evidence.,Astronomical Observations
+P079,Steve Sanchez,Physical Sciences,Day 4,Maharashtra,NIT Warangal,6.8,8.8,8.1,7.9,"Good presentation on Chemical Synthesis, though the data could be more structured.",Chemical Synthesis
+P080,Lisa Barnes,Life Sciences,Day 3,Uttar Pradesh,Jadavpur University,5.1,8.2,9.0,7.4,"Nice effort on Genetic Engineering, but the analysis needs to be more more focused.",Genetic Engineering
+P081,Kelly Donovan,Engineering Sciences,Day 4,Karnataka,NIT Surathkal,7.3,5.6,9.2,7.4,Impressive work on Renewable Energy. The analysis was insightful and thorough.,Renewable Energy
+P082,Mike Allen,Social Sciences,Day 4,Uttar Pradesh,Jadavpur University,7.3,5.7,6.0,6.3,"Good presentation on Economic Policy, though the data could be clearer.",Economic Policy
+P083,Michael Evans,Social Sciences,Day 4,Telangana,Amity University,9.1,6.4,6.5,7.3,"Decent work on Cultural Studies, would benefit from more more detailed examples.",Cultural Studies
+P084,Paul Jones,Physical Sciences,Day 4,Telangana,Delhi University,8.8,6.9,9.7,8.5,The poster about Chemical Synthesis needs more more comprehensive analysis.,Chemical Synthesis
+P085,Zachary Ferrell,Physical Sciences,Day 2,West Bengal,IIT Delhi,8.7,8.5,9.1,8.8,Very informative poster about Astronomical Observations. The results were rigorous.,Astronomical Observations
+P086,Daniel Baker,Engineering Sciences,Day 2,Rajasthan,IIIT Hyderabad,9.3,9.4,7.2,8.6,"Decent work on IoT Applications, would benefit from more clearer examples.",IoT Applications
+P087,Shirley Suarez,Life Sciences,Day 4,Kerala,IIT Kharagpur,7.3,9.8,6.7,7.9,Interesting approach to Genetic Engineering. The methodology could be more structured.,Genetic Engineering
+P088,Christopher Bass,Physical Sciences,Day 3,Kerala,Jadavpur University,5.2,5.3,8.2,6.2,The poster about Chemical Synthesis needs more stronger analysis.,Chemical Synthesis
+P089,Lisa Archer,Physical Sciences,Day 1,Kerala,IIT Kanpur,5.8,6.5,5.1,5.8,Excellent presentation on Climate Modeling. The research methodology was detailed.,Climate Modeling
+P090,Aimee Montoya,Social Sciences,Day 3,West Bengal,IIT Kharagpur,7.7,7.8,9.0,8.2,Excellent presentation on Economic Policy. The research methodology was insightful.,Economic Policy
+P091,Matthew Mcmillan,Physical Sciences,Day 2,Uttar Pradesh,IIIT Hyderabad,6.2,8.2,7.3,7.2,"Decent work on Materials Science, would benefit from more more structured examples.",Materials Science
+P092,Brian Rodriguez,Life Sciences,Day 1,Uttar Pradesh,Mumbai University,6.5,9.8,8.5,8.3,Impressive work on Ecology. The analysis was comprehensive and thorough.,Ecology
+P093,Denise Jacobs,Physical Sciences,Day 4,Karnataka,NIT Surathkal,7.9,7.9,10.0,8.6,Great insights into Climate Modeling. The visual representation was detailed.,Climate Modeling
+P094,Christina Walters,Engineering Sciences,Day 1,Punjab,Jadavpur University,8.9,6.2,9.0,8.0,Very informative poster about IoT Applications. The results were insightful.,IoT Applications
+P095,John Whitehead,Social Sciences,Day 2,Kerala,IIT Kanpur,6.5,7.2,7.9,7.2,Interesting approach to Urban Development. The methodology could be more structured.,Urban Development
+P096,Anna Henderson,Social Sciences,Day 4,Tamil Nadu,NIT Warangal,8.9,9.4,6.8,8.4,"Nice effort on Economic Policy, but the analysis needs to be more more detailed.",Economic Policy
+P097,Aaron Wise,Social Sciences,Day 4,Gujarat,Delhi University,7.3,5.4,8.8,7.2,Great insights into Urban Development. The visual representation was insightful.,Urban Development
+P098,Deborah Figueroa,Social Sciences,Day 1,West Bengal,IIT Bombay,7.7,7.3,8.4,7.8,"Standard research on Cultural Studies, could use more better organized perspectives.",Cultural Studies
+P099,Jessica Smith,Social Sciences,Day 1,Kerala,NIT Surathkal,5.1,9.4,7.8,7.4,The poster about Educational Reform needs more stronger analysis.,Educational Reform
+P100,Stephen Mckee,Physical Sciences,Day 3,Kerala,Anna University,5.7,9.7,6.5,7.3,Excellent presentation on Quantum Physics. The research methodology was comprehensive.,Quantum Physics
+P101,Sandra Aguilar,Life Sciences,Day 4,Uttar Pradesh,Mumbai University,7.1,8.7,5.8,7.2,Excellent presentation on Ecology. The research methodology was rigorous.,Ecology
+P102,Cameron Parker,Physical Sciences,Day 3,Maharashtra,Mumbai University,7.2,9.8,9.3,8.8,Impressive work on Materials Science. The analysis was insightful and thorough.,Materials Science
+P103,Rebecca Valencia,Social Sciences,Day 1,West Bengal,BITS Pilani,9.8,9.7,9.1,9.5,Very informative poster about Economic Policy. The results were insightful.,Economic Policy
+P104,Christine Wright,Engineering Sciences,Day 1,Telangana,NIT Surathkal,8.9,6.0,9.1,8.0,"Standard research on Machine Learning, could use more more detailed perspectives.",Machine Learning
+P105,Richard Henson,Life Sciences,Day 3,Tamil Nadu,SRM Chennai,6.4,9.9,9.9,8.7,"Good presentation on Genetic Engineering, though the data could be clearer.",Genetic Engineering
+P106,Marc Moore,Engineering Sciences,Day 2,Maharashtra,Mumbai University,7.9,5.1,6.3,6.4,Great insights into Machine Learning. The visual representation was insightful.,Machine Learning
+P107,Sharon Cherry,Engineering Sciences,Day 1,Uttar Pradesh,Bangalore University,7.6,5.5,7.5,6.9,The presentation on IoT Applications lacked more comprehensive evidence.,IoT Applications
+P108,Sierra Johnson,Social Sciences,Day 4,Kerala,IIT Bombay,10.0,9.2,7.1,8.8,Great insights into Urban Development. The visual representation was innovative.,Urban Development
+P109,Evelyn Galvan,Engineering Sciences,Day 3,Punjab,IIT Kharagpur,5.6,8.1,7.9,7.2,"Decent work on Renewable Energy, would benefit from more more focused examples.",Renewable Energy
+P110,Sharon Cochran,Social Sciences,Day 4,Rajasthan,SRM Chennai,5.5,8.5,9.3,7.8,"Standard research on Educational Reform, could use more more detailed perspectives.",Educational Reform
+P111,Richard Rodriguez,Physical Sciences,Day 4,Delhi,Anna University,9.1,7.0,8.6,8.2,Impressive work on Astronomical Observations. The analysis was detailed and thorough.,Astronomical Observations
+P112,Shannon Walker,Social Sciences,Day 2,Kerala,Jadavpur University,5.5,5.4,7.2,6.0,"Nice effort on Urban Development, but the analysis needs to be more more detailed.",Urban Development
+P113,Julia Torres,Engineering Sciences,Day 3,Kerala,IIT Kanpur,6.8,8.3,8.8,8.0,The presentation on Robotics lacked better designed evidence.,Robotics
+P114,Crystal Johnson,Social Sciences,Day 3,Karnataka,IIIT Hyderabad,6.1,8.3,6.1,6.8,Fascinating research on Behavioral Psychology. The conclusions were detailed.,Behavioral Psychology
+P115,Garrett Lin,Engineering Sciences,Day 3,Punjab,NIT Surathkal,9.2,9.9,9.1,9.4,"Standard research on Robotics, could use more clearer perspectives.",Robotics
+P116,Diana May,Social Sciences,Day 1,Tamil Nadu,BITS Pilani,9.6,6.8,5.9,7.4,Great insights into Cultural Studies. The visual representation was innovative.,Cultural Studies
+P117,William Herrera,Life Sciences,Day 1,Karnataka,Amity University,6.9,7.3,5.8,6.7,Impressive work on Microbiology. The analysis was insightful and thorough.,Microbiology
+P118,Ashley Waller,Engineering Sciences,Day 1,Tamil Nadu,NIT Trichy,5.2,5.4,7.2,5.9,Fascinating research on Sustainable Architecture. The conclusions were rigorous.,Sustainable Architecture
+P119,Victor Baker,Physical Sciences,Day 3,Delhi,Amity University,6.7,5.6,8.4,6.9,"Standard research on Quantum Physics, could use more more structured perspectives.",Quantum Physics
+P120,Jeffrey Chandler,Engineering Sciences,Day 2,West Bengal,SRM Chennai,5.0,6.5,6.1,5.9,Impressive work on Renewable Energy. The analysis was detailed and thorough.,Renewable Energy
+P121,Larry Dixon,Social Sciences,Day 1,Maharashtra,Jadavpur University,5.9,6.9,8.5,7.1,"Nice effort on Educational Reform, but the analysis needs to be more clearer.",Educational Reform
+P122,Kenneth Scott,Physical Sciences,Day 1,West Bengal,IIT Bombay,9.6,9.3,7.9,8.9,"Decent work on Climate Modeling, would benefit from more more structured examples.",Climate Modeling
+P123,April Frost,Engineering Sciences,Day 4,Maharashtra,Delhi University,9.0,8.1,9.2,8.8,The presentation on Machine Learning lacked more robust evidence.,Machine Learning
+P124,Michelle Harmon,Engineering Sciences,Day 2,West Bengal,IIIT Hyderabad,7.6,7.0,6.6,7.1,Impressive work on Robotics. The analysis was comprehensive and thorough.,Robotics
+P125,Helen Jones,Engineering Sciences,Day 1,Rajasthan,Amity University,9.5,6.7,8.6,8.3,The poster about Machine Learning needs more more coherent analysis.,Machine Learning
+P126,Erin Edwards,Engineering Sciences,Day 2,Gujarat,NIT Warangal,8.0,8.8,8.3,8.4,Great insights into Machine Learning. The visual representation was rigorous.,Machine Learning
+P127,Michelle Evans,Physical Sciences,Day 3,Kerala,Delhi University,7.2,7.3,8.2,7.6,"Standard research on Materials Science, could use more clearer perspectives.",Materials Science
+P128,Jason Powell,Social Sciences,Day 1,Gujarat,Bangalore University,5.2,6.8,6.4,6.1,Interesting approach to Educational Reform. The methodology could be more focused.,Educational Reform
+P129,Cameron Fisher,Physical Sciences,Day 4,Punjab,VIT Vellore,7.2,9.0,8.3,8.2,Great insights into Quantum Physics. The visual representation was insightful.,Quantum Physics
+P130,Megan Orr,Life Sciences,Day 1,Uttar Pradesh,IIT Kanpur,9.9,5.4,8.2,7.8,Great insights into Neuroscience. The visual representation was rigorous.,Neuroscience
+P131,Elizabeth Kelley,Life Sciences,Day 3,Telangana,BITS Hyderabad,7.0,6.7,8.0,7.2,"Nice effort on Biotechnology, but the analysis needs to be more clearer.",Biotechnology
+P132,Dustin Jordan,Social Sciences,Day 1,Rajasthan,Pune University,6.3,9.3,9.8,8.5,"Good presentation on Cultural Studies, though the data could be more structured.",Cultural Studies
+P133,Mary Marshall,Engineering Sciences,Day 2,Telangana,BITS Hyderabad,5.6,8.5,5.4,6.5,"Nice effort on Robotics, but the analysis needs to be more more detailed.",Robotics
+P134,Daniel Kennedy,Engineering Sciences,Day 4,Rajasthan,Mumbai University,6.8,5.9,6.1,6.3,The work on Renewable Energy could benefit from more coherent references.,Renewable Energy
+P135,Rebecca Jackson,Life Sciences,Day 2,Tamil Nadu,IIT Madras,9.2,5.5,8.9,7.9,The study on Neuroscience needs stronger clarification.,Neuroscience
+P136,Jose Schultz,Social Sciences,Day 2,Punjab,Pune University,5.8,9.2,8.9,8.0,The poster about Economic Policy needs more more robust analysis.,Economic Policy
+P137,Robert Potter,Engineering Sciences,Day 4,Telangana,NIT Surathkal,8.1,8.8,8.9,8.6,Very informative poster about Robotics. The results were detailed.,Robotics
+P138,Courtney Gonzalez,Physical Sciences,Day 2,Telangana,IIIT Hyderabad,7.3,6.4,6.9,6.9,"Good presentation on Climate Modeling, though the data could be more detailed.",Climate Modeling
+P139,David Alvarez,Life Sciences,Day 3,Maharashtra,Jadavpur University,7.8,5.5,9.2,7.5,Research on Neuroscience requires more stronger methodology.,Neuroscience
+P140,Angel Perry,Life Sciences,Day 3,Uttar Pradesh,Amity University,9.2,5.5,9.6,8.1,Research on Microbiology requires more stronger methodology.,Microbiology
+P141,Cheyenne Horton,Physical Sciences,Day 1,West Bengal,Amity University,6.2,10.0,6.9,7.7,Excellent presentation on Astronomical Observations. The research methodology was detailed.,Astronomical Observations
+P142,David Douglas Jr.,Life Sciences,Day 2,Maharashtra,BITS Hyderabad,8.5,5.7,8.5,7.6,Excellent presentation on Biotechnology. The research methodology was innovative.,Biotechnology
+P143,Patricia Rodriguez,Engineering Sciences,Day 3,Delhi,IIT Kharagpur,9.7,8.0,7.1,8.3,"Good presentation on Sustainable Architecture, though the data could be more structured.",Sustainable Architecture
+P144,Christopher Rubio,Engineering Sciences,Day 1,Delhi,Anna University,7.3,5.6,9.5,7.5,Interesting approach to Sustainable Architecture. The methodology could be more focused.,Sustainable Architecture
+P145,Amber Wright,Life Sciences,Day 2,Gujarat,Anna University,8.1,6.2,7.1,7.1,Interesting approach to Genetic Engineering. The methodology could be more focused.,Genetic Engineering
+P146,Joyce Solis,Social Sciences,Day 1,Rajasthan,VIT Vellore,8.9,7.5,5.1,7.2,The presentation on Behavioral Psychology lacked more robust evidence.,Behavioral Psychology
+P147,Victoria Larson,Social Sciences,Day 3,Haryana,IIT Bombay,8.9,6.7,8.7,8.1,"Standard research on Cultural Studies, could use more more structured perspectives.",Cultural Studies
+P148,Stephanie Salazar,Life Sciences,Day 1,Telangana,VIT Vellore,9.1,5.9,8.9,8.0,Great insights into Neuroscience. The visual representation was comprehensive.,Neuroscience
+P149,Kathy Rivas,Life Sciences,Day 1,Haryana,Bangalore University,6.5,5.2,6.0,5.9,Impressive work on Genetic Engineering. The analysis was insightful and thorough.,Genetic Engineering
+P150,Stephanie Manning,Physical Sciences,Day 4,Gujarat,IIT Delhi,6.4,9.3,5.2,7.0,"Nice effort on Materials Science, but the analysis needs to be more clearer.",Materials Science
+P151,David Wright,Social Sciences,Day 4,West Bengal,Bangalore University,6.7,5.9,8.5,7.0,Fascinating research on Educational Reform. The conclusions were detailed.,Educational Reform
+P152,Pamela Boyd,Engineering Sciences,Day 4,Karnataka,Anna University,10.0,5.9,6.5,7.5,Impressive work on Sustainable Architecture. The analysis was detailed and thorough.,Sustainable Architecture
+P153,Denise Jones,Social Sciences,Day 4,Punjab,Anna University,8.4,6.8,5.2,6.8,Research on Economic Policy requires more more comprehensive methodology.,Economic Policy
+P154,Devon Flores,Physical Sciences,Day 3,Kerala,IIT Delhi,8.4,7.0,7.6,7.7,"Good presentation on Quantum Physics, though the data could be clearer.",Quantum Physics
+P155,Brenda Hall,Life Sciences,Day 4,Maharashtra,IIT Kharagpur,6.2,8.2,6.8,7.1,The presentation on Genetic Engineering lacked more comprehensive evidence.,Genetic Engineering
+P156,Michelle Brown,Life Sciences,Day 4,Telangana,Mumbai University,8.8,7.9,7.6,8.1,Impressive work on Biotechnology. The analysis was comprehensive and thorough.,Biotechnology
+P157,Joshua Perry,Engineering Sciences,Day 1,Haryana,NIT Trichy,7.6,9.6,5.6,7.6,"Decent work on Robotics, would benefit from more more detailed examples.",Robotics
+P158,Jason Stein,Social Sciences,Day 4,Delhi,IIT Kanpur,9.3,7.3,9.5,8.7,Excellent presentation on Economic Policy. The research methodology was detailed.,Economic Policy
+P159,Melissa Gates,Social Sciences,Day 1,Rajasthan,VIT Vellore,9.5,9.3,8.6,9.1,The poster about Cultural Studies needs more better designed analysis.,Cultural Studies
+P160,Jamie Smith,Life Sciences,Day 1,Delhi,IIT Kharagpur,9.0,5.1,7.8,7.3,Fascinating research on Microbiology. The conclusions were comprehensive.,Microbiology
+P161,Paul Castaneda,Engineering Sciences,Day 1,Gujarat,Pune University,7.6,8.8,9.1,8.5,Impressive work on Robotics. The analysis was innovative and thorough.,Robotics
+P162,Jennifer Adkins,Physical Sciences,Day 4,Kerala,Amity University,5.6,9.1,7.8,7.5,"Good presentation on Astronomical Observations, though the data could be better organized.",Astronomical Observations
+P163,Lindsey Walker,Engineering Sciences,Day 1,Rajasthan,IIT Kharagpur,5.8,6.6,8.5,7.0,Fascinating research on IoT Applications. The conclusions were detailed.,IoT Applications
+P164,Jeffrey Johnson,Engineering Sciences,Day 3,Delhi,VIT Vellore,5.6,6.5,7.7,6.6,"Good presentation on IoT Applications, though the data could be more focused.",IoT Applications
+P165,Michael Powell,Life Sciences,Day 2,Kerala,SRM Chennai,6.7,9.6,5.2,7.2,The presentation on Ecology lacked stronger evidence.,Ecology
+P166,John Anderson,Social Sciences,Day 2,Punjab,Anna University,8.2,7.5,8.1,7.9,Impressive work on Behavioral Psychology. The analysis was rigorous and thorough.,Behavioral Psychology
+P167,Alyssa Long,Life Sciences,Day 4,Gujarat,Bangalore University,8.4,5.8,7.1,7.1,Impressive work on Genetic Engineering. The analysis was insightful and thorough.,Genetic Engineering
+P168,Alyssa Day,Life Sciences,Day 3,Haryana,Delhi University,9.9,5.7,6.9,7.5,"Nice effort on Neuroscience, but the analysis needs to be more more detailed.",Neuroscience
+P169,Joel Williams,Physical Sciences,Day 1,Gujarat,Bangalore University,5.7,5.3,9.7,6.9,The work on Materials Science could benefit from more coherent references.,Materials Science
+P170,Daniel Murphy,Life Sciences,Day 3,Punjab,Delhi University,8.8,7.5,7.6,8.0,Impressive work on Microbiology. The analysis was rigorous and thorough.,Microbiology
+P171,Jamie Walton,Engineering Sciences,Day 1,West Bengal,Amity University,9.8,6.1,6.8,7.6,Great insights into Robotics. The visual representation was insightful.,Robotics
+P172,Darlene Miller,Physical Sciences,Day 3,Rajasthan,IIT Bombay,7.2,9.4,8.6,8.4,"Nice effort on Quantum Physics, but the analysis needs to be more clearer.",Quantum Physics
+P173,Joshua Cooke,Physical Sciences,Day 1,Punjab,VIT Vellore,6.8,6.4,6.9,6.7,Fascinating research on Materials Science. The conclusions were detailed.,Materials Science
+P174,Matthew Harrington,Engineering Sciences,Day 2,Karnataka,Pune University,9.0,6.7,9.7,8.5,"Good presentation on IoT Applications, though the data could be more focused.",IoT Applications
+P175,Nicole Herring,Physical Sciences,Day 1,Maharashtra,IIT Delhi,8.6,9.0,7.6,8.4,Fascinating research on Materials Science. The conclusions were comprehensive.,Materials Science
+P176,Alex Hernandez,Social Sciences,Day 3,Tamil Nadu,Pune University,8.7,6.5,6.7,7.3,The study on Behavioral Psychology needs more robust clarification.,Behavioral Psychology
+P177,Michael Elliott,Social Sciences,Day 4,Maharashtra,Mumbai University,8.4,9.9,7.9,8.7,Interesting approach to Cultural Studies. The methodology could be more focused.,Cultural Studies
+P178,Michael Wang,Physical Sciences,Day 3,Kerala,IIIT Hyderabad,6.1,5.3,7.4,6.3,"Standard research on Chemical Synthesis, could use more better organized perspectives.",Chemical Synthesis
+P179,Lawrence Adkins,Life Sciences,Day 2,Maharashtra,IIIT Hyderabad,6.0,7.2,7.1,6.8,Very informative poster about Genetic Engineering. The results were rigorous.,Genetic Engineering
+P180,Robert Oconnell,Physical Sciences,Day 1,Haryana,IIT Kharagpur,6.0,6.6,8.3,7.0,"Nice effort on Chemical Synthesis, but the analysis needs to be more more detailed.",Chemical Synthesis
+P181,Alexander Collins,Physical Sciences,Day 3,Rajasthan,Mumbai University,8.1,6.0,6.2,6.8,"Good presentation on Astronomical Observations, though the data could be more structured.",Astronomical Observations
+P182,Tina Sanders,Social Sciences,Day 2,Haryana,Jadavpur University,7.4,7.8,9.7,8.3,"Nice effort on Cultural Studies, but the analysis needs to be more clearer.",Cultural Studies
+P183,Angela Vaughn,Physical Sciences,Day 4,Telangana,IIT Kharagpur,5.2,9.8,5.4,6.8,Research on Astronomical Observations requires more more robust methodology.,Astronomical Observations
+P184,Ashley Barton,Life Sciences,Day 2,Rajasthan,BITS Pilani,8.5,5.7,8.1,7.4,"Good presentation on Ecology, though the data could be clearer.",Ecology
+P185,Lindsay Martinez,Life Sciences,Day 2,Maharashtra,IIT Kanpur,6.7,7.4,8.4,7.5,Fascinating research on Biotechnology. The conclusions were comprehensive.,Biotechnology
+P186,Dr. Hannah Patterson,Physical Sciences,Day 4,Uttar Pradesh,NIT Warangal,6.6,8.2,9.5,8.1,Fascinating research on Astronomical Observations. The conclusions were comprehensive.,Astronomical Observations
+P187,Jonathan Peterson,Engineering Sciences,Day 2,West Bengal,NIT Trichy,10.0,7.0,7.5,8.2,Research on Renewable Energy requires more stronger methodology.,Renewable Energy
+P188,Samantha Garcia,Engineering Sciences,Day 3,Punjab,SRM Chennai,9.6,6.7,7.3,7.9,"Standard research on Renewable Energy, could use more better organized perspectives.",Renewable Energy
+P189,Madison Poole,Life Sciences,Day 4,Gujarat,NIT Warangal,6.7,8.7,8.2,7.9,Interesting approach to Genetic Engineering. The methodology could be more structured.,Genetic Engineering
+P190,Jessica Gross,Social Sciences,Day 2,Tamil Nadu,SRM Chennai,9.1,7.6,5.4,7.4,"Good presentation on Educational Reform, though the data could be more detailed.",Educational Reform
+P191,Debra Morton,Physical Sciences,Day 3,Delhi,IIT Bombay,6.9,7.2,6.3,6.8,Fascinating research on Astronomical Observations. The conclusions were insightful.,Astronomical Observations
+P192,Karen Graham,Engineering Sciences,Day 3,Kerala,Mumbai University,5.3,5.6,6.5,5.8,Fascinating research on Machine Learning. The conclusions were detailed.,Machine Learning
+P193,Debra Christian,Engineering Sciences,Day 3,Telangana,SRM Chennai,6.1,5.7,5.8,5.9,"Standard research on Machine Learning, could use more more structured perspectives.",Machine Learning
+P194,Angelica Keith,Physical Sciences,Day 4,Rajasthan,NIT Warangal,8.4,8.0,8.9,8.4,"Standard research on Materials Science, could use more more structured perspectives.",Materials Science
+P195,John Bishop,Engineering Sciences,Day 1,Maharashtra,VIT Vellore,6.0,7.7,5.8,6.5,The work on Sustainable Architecture could benefit from stronger references.,Sustainable Architecture
+P196,Allen Rosales,Life Sciences,Day 4,Karnataka,Amity University,9.0,7.3,7.6,8.0,Excellent presentation on Biotechnology. The research methodology was insightful.,Biotechnology
+P197,Daniel Salinas,Physical Sciences,Day 3,Haryana,IIT Bombay,6.3,5.0,6.1,5.8,Great insights into Climate Modeling. The visual representation was detailed.,Climate Modeling
+P198,Spencer Haynes,Engineering Sciences,Day 1,Karnataka,Jadavpur University,6.4,5.9,5.7,6.0,"Decent work on Renewable Energy, would benefit from more more structured examples.",Renewable Energy
+P199,Adam Vaughan,Physical Sciences,Day 4,West Bengal,Pune University,8.4,8.3,7.7,8.1,"Nice effort on Quantum Physics, but the analysis needs to be more clearer.",Quantum Physics
+P200,Nathan Freeman,Life Sciences,Day 4,Rajasthan,IIT Kharagpur,9.2,8.8,9.9,9.3,Fascinating research on Microbiology. The conclusions were rigorous.,Microbiology
+P201,Melissa Brewer,Physical Sciences,Day 2,Delhi,Bangalore University,5.8,5.9,9.4,7.0,Interesting approach to Astronomical Observations. The methodology could be better organized.,Astronomical Observations
+P202,Ricky Davis II,Engineering Sciences,Day 2,Delhi,IIT Madras,8.0,7.2,8.4,7.9,The poster about Renewable Energy needs more stronger analysis.,Renewable Energy
+P203,Elizabeth Perkins,Physical Sciences,Day 4,Delhi,VIT Vellore,8.8,8.9,5.7,7.8,The poster about Materials Science needs more more comprehensive analysis.,Materials Science
+P204,Joseph Coleman,Social Sciences,Day 3,Delhi,BITS Hyderabad,9.9,7.6,7.1,8.2,Fascinating research on Economic Policy. The conclusions were insightful.,Economic Policy
+P205,Erin Warner,Life Sciences,Day 4,Rajasthan,Jadavpur University,9.9,9.7,8.4,9.3,"Nice effort on Genetic Engineering, but the analysis needs to be more better organized.",Genetic Engineering
+P206,David Martinez,Physical Sciences,Day 2,Gujarat,Pune University,8.8,7.4,9.2,8.5,Very informative poster about Materials Science. The results were rigorous.,Materials Science
+P207,Bryan Herrera,Engineering Sciences,Day 4,West Bengal,VIT Vellore,5.7,6.2,6.0,6.0,"Decent work on Sustainable Architecture, would benefit from more more structured examples.",Sustainable Architecture
+P208,Cathy Robinson,Engineering Sciences,Day 2,Maharashtra,BITS Pilani,8.4,8.0,9.4,8.6,Fascinating research on Robotics. The conclusions were insightful.,Robotics
+P209,Dr. William Warren,Life Sciences,Day 4,Delhi,Delhi University,9.8,5.1,9.7,8.2,The presentation on Neuroscience lacked more robust evidence.,Neuroscience
+P210,Brian Lee,Life Sciences,Day 2,West Bengal,NIT Surathkal,6.6,6.4,7.3,6.8,"Nice effort on Ecology, but the analysis needs to be more more structured.",Ecology
+P211,Christopher Smith,Social Sciences,Day 4,Uttar Pradesh,IIT Kanpur,8.8,6.6,6.0,7.1,Excellent presentation on Educational Reform. The research methodology was insightful.,Educational Reform
+P212,Denise Mccann,Life Sciences,Day 2,Maharashtra,BITS Pilani,9.7,7.9,7.1,8.2,Impressive work on Ecology. The analysis was comprehensive and thorough.,Ecology
+P213,Melissa Martinez,Physical Sciences,Day 2,Uttar Pradesh,VIT Vellore,6.3,9.1,9.8,8.4,"Decent work on Astronomical Observations, would benefit from more better organized examples.",Astronomical Observations
+P214,Katherine Salas,Life Sciences,Day 3,Tamil Nadu,IIT Kharagpur,7.4,9.6,7.7,8.2,Interesting approach to Ecology. The methodology could be more focused.,Ecology
+P215,Julie Alexander,Engineering Sciences,Day 1,Kerala,IIT Delhi,7.1,9.2,6.2,7.5,Interesting approach to Renewable Energy. The methodology could be more detailed.,Renewable Energy
+P216,Anthony Everett,Physical Sciences,Day 3,Maharashtra,SRM Chennai,9.6,8.3,5.1,7.7,"Decent work on Chemical Synthesis, would benefit from more clearer examples.",Chemical Synthesis
+P217,Rodney Morales,Engineering Sciences,Day 3,Rajasthan,BITS Hyderabad,7.5,8.5,7.2,7.7,The poster about Renewable Energy needs more stronger analysis.,Renewable Energy
+P218,Mark Brown,Engineering Sciences,Day 2,Delhi,NIT Warangal,7.6,9.1,6.3,7.7,Impressive work on Sustainable Architecture. The analysis was rigorous and thorough.,Sustainable Architecture
+P219,Justin Torres,Physical Sciences,Day 2,Haryana,NIT Surathkal,8.4,9.2,8.3,8.6,The presentation on Astronomical Observations lacked stronger evidence.,Astronomical Observations
+P220,Bailey Duran DDS,Physical Sciences,Day 4,West Bengal,VIT Vellore,5.3,5.0,5.9,5.4,Great insights into Climate Modeling. The visual representation was detailed.,Climate Modeling
+P221,Courtney Mills,Engineering Sciences,Day 1,Delhi,NIT Warangal,7.4,5.2,5.4,6.0,The study on Sustainable Architecture needs more comprehensive clarification.,Sustainable Architecture
+P222,Jeremy Dalton,Engineering Sciences,Day 2,Telangana,IIT Bombay,7.9,8.8,8.6,8.4,Excellent presentation on Machine Learning. The research methodology was detailed.,Machine Learning
+P223,Elizabeth Oliver DDS,Life Sciences,Day 2,Punjab,Pune University,6.7,8.8,5.7,7.1,The presentation on Ecology lacked more comprehensive evidence.,Ecology
+P224,Theresa Clark,Social Sciences,Day 1,Karnataka,Anna University,9.2,6.7,8.8,8.2,The work on Economic Policy could benefit from better designed references.,Economic Policy
+P225,Matthew Moore,Engineering Sciences,Day 3,Uttar Pradesh,Jadavpur University,6.8,9.7,7.2,7.9,"Decent work on Machine Learning, would benefit from more clearer examples.",Machine Learning
+P226,Benjamin Smith,Social Sciences,Day 2,Haryana,IIT Madras,6.3,6.9,8.9,7.4,Great insights into Urban Development. The visual representation was detailed.,Urban Development
+P227,Kirk Carter,Social Sciences,Day 1,Karnataka,IIT Bombay,7.2,8.8,5.5,7.2,Great insights into Cultural Studies. The visual representation was rigorous.,Cultural Studies
+P228,Michael Warner,Physical Sciences,Day 1,Maharashtra,IIT Madras,7.8,8.0,8.9,8.2,The presentation on Astronomical Observations lacked better designed evidence.,Astronomical Observations
+P229,Michael Bradshaw,Physical Sciences,Day 4,Karnataka,VIT Vellore,7.9,5.8,6.9,6.9,Impressive work on Materials Science. The analysis was detailed and thorough.,Materials Science
+P230,Lori Guerrero,Physical Sciences,Day 2,Karnataka,NIT Trichy,6.4,6.5,8.9,7.3,Very informative poster about Climate Modeling. The results were rigorous.,Climate Modeling
+P231,Jessica Stephens,Life Sciences,Day 4,Karnataka,IIT Kharagpur,5.0,7.0,9.2,7.1,Impressive work on Neuroscience. The analysis was rigorous and thorough.,Neuroscience
+P232,Susan Serrano,Social Sciences,Day 4,Kerala,SRM Chennai,6.5,8.0,8.5,7.7,Very informative poster about Economic Policy. The results were rigorous.,Economic Policy
+P233,Christopher Parker,Social Sciences,Day 3,Haryana,Jadavpur University,8.9,6.6,6.4,7.3,"Nice effort on Behavioral Psychology, but the analysis needs to be more clearer.",Behavioral Psychology
+P234,Laura Roberts,Life Sciences,Day 2,Kerala,VIT Vellore,9.8,7.3,8.5,8.5,Impressive work on Genetic Engineering. The analysis was innovative and thorough.,Genetic Engineering
+P235,Michael Lyons,Physical Sciences,Day 4,Tamil Nadu,BITS Hyderabad,6.3,5.8,7.1,6.4,Great insights into Materials Science. The visual representation was insightful.,Materials Science
+P236,Kathryn Snyder,Physical Sciences,Day 4,Rajasthan,Amity University,7.7,9.0,6.8,7.8,The study on Climate Modeling needs more comprehensive clarification.,Climate Modeling
+P237,Andrew Reynolds,Engineering Sciences,Day 1,Delhi,Mumbai University,8.2,5.2,9.9,7.8,"Decent work on Machine Learning, would benefit from more more structured examples.",Machine Learning
+P238,David Davis,Physical Sciences,Day 1,Maharashtra,IIT Kanpur,6.1,8.7,7.8,7.5,"Good presentation on Astronomical Observations, though the data could be better organized.",Astronomical Observations
+P239,Sara Johnston,Social Sciences,Day 4,Uttar Pradesh,IIIT Hyderabad,5.8,10.0,7.4,7.7,Excellent presentation on Behavioral Psychology. The research methodology was innovative.,Behavioral Psychology
+P240,Yvonne Chambers,Life Sciences,Day 3,Gujarat,Delhi University,8.9,7.6,6.7,7.7,Great insights into Biotechnology. The visual representation was detailed.,Biotechnology
+P241,Andrew Avila,Engineering Sciences,Day 3,Maharashtra,IIT Kanpur,9.2,8.2,8.4,8.6,Very informative poster about Renewable Energy. The results were insightful.,Renewable Energy
+P242,Matthew Moon,Life Sciences,Day 2,Telangana,VIT Vellore,9.8,6.2,7.0,7.7,Great insights into Biotechnology. The visual representation was rigorous.,Biotechnology
+P243,Kevin Walters,Engineering Sciences,Day 2,Uttar Pradesh,IIIT Hyderabad,6.9,8.5,6.0,7.1,Interesting approach to Robotics. The methodology could be more focused.,Robotics
+P244,Brandon Bailey MD,Engineering Sciences,Day 2,Telangana,Delhi University,7.3,6.3,9.3,7.6,"Nice effort on Machine Learning, but the analysis needs to be more more focused.",Machine Learning
+P245,Shannon Rivera,Physical Sciences,Day 4,Punjab,IIT Kanpur,6.8,7.3,5.9,6.7,"Nice effort on Astronomical Observations, but the analysis needs to be more more focused.",Astronomical Observations
+P246,Donna Landry,Engineering Sciences,Day 2,Telangana,IIT Kanpur,6.5,5.9,8.5,7.0,"Decent work on Machine Learning, would benefit from more more focused examples.",Machine Learning
+P247,Krista Gibson,Life Sciences,Day 4,West Bengal,NIT Trichy,8.2,8.5,8.2,8.3,The study on Biotechnology needs more coherent clarification.,Biotechnology
+P248,Frank Cordova,Physical Sciences,Day 3,Tamil Nadu,NIT Trichy,9.2,8.1,9.3,8.9,The work on Astronomical Observations could benefit from more coherent references.,Astronomical Observations
+P249,Jose Travis,Life Sciences,Day 4,Rajasthan,Amity University,7.0,7.5,8.6,7.7,Very informative poster about Biotechnology. The results were innovative.,Biotechnology
+P250,Kimberly Gutierrez,Engineering Sciences,Day 2,Gujarat,IIT Delhi,6.1,6.4,8.9,7.1,"Decent work on IoT Applications, would benefit from more more focused examples.",IoT Applications
+P251,Isaiah Avila,Engineering Sciences,Day 1,Gujarat,VIT Vellore,7.7,8.8,8.8,8.4,Very informative poster about IoT Applications. The results were rigorous.,IoT Applications
+P252,Olivia Harris,Engineering Sciences,Day 2,Gujarat,IIT Delhi,6.3,9.3,5.4,7.0,The presentation on Robotics lacked more coherent evidence.,Robotics
+P253,Tanya Kim,Life Sciences,Day 3,Haryana,SRM Chennai,5.8,5.7,6.0,5.8,Excellent presentation on Biotechnology. The research methodology was insightful.,Biotechnology
+P254,Barbara Dudley,Social Sciences,Day 3,Punjab,VIT Vellore,6.6,8.5,6.4,7.2,Fascinating research on Economic Policy. The conclusions were innovative.,Economic Policy
+P255,Cynthia Moore,Life Sciences,Day 4,Maharashtra,BITS Pilani,8.5,5.7,5.7,6.6,Very informative poster about Microbiology. The results were rigorous.,Microbiology
+P256,Kristen Davis,Physical Sciences,Day 2,Punjab,BITS Pilani,6.9,5.4,9.0,7.1,"Decent work on Climate Modeling, would benefit from more more focused examples.",Climate Modeling
+P257,Susan Murray MD,Social Sciences,Day 3,Uttar Pradesh,Jadavpur University,7.9,9.3,9.2,8.8,Great insights into Cultural Studies. The visual representation was detailed.,Cultural Studies
+P258,Kathleen Moran,Engineering Sciences,Day 4,Delhi,Anna University,7.5,6.6,6.4,6.8,"Good presentation on Machine Learning, though the data could be more focused.",Machine Learning
+P259,Denise Davenport,Physical Sciences,Day 3,Kerala,IIT Delhi,5.5,8.9,7.3,7.2,Very informative poster about Quantum Physics. The results were rigorous.,Quantum Physics
+P260,Mrs. Kristen Reyes,Physical Sciences,Day 1,West Bengal,NIT Warangal,9.4,6.5,9.4,8.4,The presentation on Materials Science lacked better designed evidence.,Materials Science
+P261,Katie Suarez,Social Sciences,Day 1,Telangana,NIT Trichy,7.0,6.5,8.5,7.3,Excellent presentation on Urban Development. The research methodology was innovative.,Urban Development
+P262,Desiree Tyler,Engineering Sciences,Day 2,Uttar Pradesh,IIT Madras,8.0,7.6,7.2,7.6,Impressive work on Machine Learning. The analysis was innovative and thorough.,Machine Learning
+P263,Timothy Romero,Physical Sciences,Day 2,Uttar Pradesh,IIT Madras,6.9,8.7,5.5,7.0,Impressive work on Materials Science. The analysis was comprehensive and thorough.,Materials Science
+P264,Diane Evans,Physical Sciences,Day 2,Kerala,IIT Kharagpur,7.7,5.0,8.3,7.0,Very informative poster about Quantum Physics. The results were comprehensive.,Quantum Physics
+P265,Yvonne Burns,Physical Sciences,Day 4,Delhi,IIT Madras,5.7,5.6,8.7,6.7,Great insights into Quantum Physics. The visual representation was detailed.,Quantum Physics
+P266,Joshua Reed,Life Sciences,Day 2,Gujarat,IIT Madras,7.8,8.0,8.0,7.9,Interesting approach to Microbiology. The methodology could be more structured.,Microbiology
+P267,Kimberly Gibson,Life Sciences,Day 2,Haryana,Pune University,8.2,8.9,9.0,8.7,Great insights into Neuroscience. The visual representation was innovative.,Neuroscience
+P268,Colin Terry,Life Sciences,Day 4,Kerala,SRM Chennai,7.6,9.9,9.9,9.1,The poster about Genetic Engineering needs more more robust analysis.,Genetic Engineering
+P269,Cynthia Rowe,Physical Sciences,Day 3,Rajasthan,NIT Trichy,9.8,8.9,5.1,7.9,Impressive work on Climate Modeling. The analysis was comprehensive and thorough.,Climate Modeling
+P270,Patrick Thornton,Engineering Sciences,Day 1,West Bengal,Amity University,8.1,7.5,7.1,7.6,Interesting approach to IoT Applications. The methodology could be more focused.,IoT Applications
+P271,Jasmin Alvarado,Life Sciences,Day 3,Karnataka,BITS Hyderabad,7.6,6.0,9.0,7.5,"Decent work on Genetic Engineering, would benefit from more more focused examples.",Genetic Engineering
+P272,Veronica Simpson,Engineering Sciences,Day 3,Haryana,Anna University,5.3,5.4,7.2,6.0,Fascinating research on Machine Learning. The conclusions were innovative.,Machine Learning
+P273,Jonathan Lawrence,Social Sciences,Day 2,Karnataka,IIT Bombay,8.5,5.8,9.8,8.0,"Nice effort on Economic Policy, but the analysis needs to be more more detailed.",Economic Policy
+P274,Shelly Alexander,Social Sciences,Day 2,Haryana,BITS Pilani,8.9,5.1,9.0,7.7,Excellent presentation on Urban Development. The research methodology was detailed.,Urban Development
+P275,Joyce Bowen,Engineering Sciences,Day 4,Uttar Pradesh,Amity University,5.3,9.3,5.8,6.8,Excellent presentation on IoT Applications. The research methodology was insightful.,IoT Applications
+P276,Matthew Moore,Engineering Sciences,Day 2,Haryana,Amity University,5.2,9.3,6.2,6.9,Great insights into Renewable Energy. The visual representation was comprehensive.,Renewable Energy
+P277,Wayne Morgan,Life Sciences,Day 1,Rajasthan,Anna University,6.6,7.1,8.6,7.4,Excellent presentation on Microbiology. The research methodology was insightful.,Microbiology
+P278,Marie Christian,Social Sciences,Day 1,Rajasthan,IIT Delhi,6.1,7.6,5.2,6.3,Great insights into Economic Policy. The visual representation was detailed.,Economic Policy
+P279,Shannon James,Social Sciences,Day 3,Karnataka,VIT Vellore,5.0,6.0,7.8,6.3,Fascinating research on Educational Reform. The conclusions were comprehensive.,Educational Reform
+P280,Nathan Malone,Physical Sciences,Day 3,Punjab,Jadavpur University,8.7,7.7,9.0,8.5,Great insights into Materials Science. The visual representation was innovative.,Materials Science
+P281,Amanda Jones,Life Sciences,Day 3,Kerala,IIT Bombay,5.0,8.3,9.2,7.5,Interesting approach to Neuroscience. The methodology could be more detailed.,Neuroscience
+P282,Tammie Bright,Life Sciences,Day 4,Uttar Pradesh,IIT Delhi,8.6,5.5,9.6,7.9,The study on Microbiology needs more robust clarification.,Microbiology
+P283,Jessica Garcia,Social Sciences,Day 4,Haryana,IIT Madras,5.5,5.7,9.1,6.8,Fascinating research on Behavioral Psychology. The conclusions were innovative.,Behavioral Psychology
+P284,Shelia Wallace,Physical Sciences,Day 2,Delhi,BITS Hyderabad,9.3,9.6,7.0,8.6,Research on Astronomical Observations requires more better designed methodology.,Astronomical Observations
+P285,Stephanie Williams,Physical Sciences,Day 3,Delhi,IIT Madras,5.7,8.9,5.5,6.7,Great insights into Materials Science. The visual representation was rigorous.,Materials Science
+P286,Elaine Brooks,Social Sciences,Day 4,Karnataka,VIT Vellore,9.8,6.0,6.5,7.4,Excellent presentation on Cultural Studies. The research methodology was innovative.,Cultural Studies
+P287,Joseph Knight,Life Sciences,Day 3,Haryana,SRM Chennai,6.1,9.3,5.7,7.0,"Nice effort on Genetic Engineering, but the analysis needs to be more better organized.",Genetic Engineering
+P288,Carolyn Miller,Engineering Sciences,Day 3,Gujarat,NIT Trichy,9.8,9.3,7.8,9.0,Interesting approach to Renewable Energy. The methodology could be better organized.,Renewable Energy
+P289,Lisa Allen,Engineering Sciences,Day 2,Karnataka,IIT Bombay,9.2,9.9,5.7,8.3,Research on Renewable Energy requires more stronger methodology.,Renewable Energy
+P290,Briana Murray,Social Sciences,Day 1,Maharashtra,IIT Madras,9.5,7.2,5.6,7.4,Research on Economic Policy requires more stronger methodology.,Economic Policy
+P291,David Smith,Engineering Sciences,Day 4,Maharashtra,NIT Trichy,7.2,8.6,7.5,7.8,Great insights into Sustainable Architecture. The visual representation was comprehensive.,Sustainable Architecture
+P292,Stephanie Byrd,Social Sciences,Day 2,Tamil Nadu,BITS Pilani,7.2,5.7,8.1,7.0,"Nice effort on Cultural Studies, but the analysis needs to be more better organized.",Cultural Studies
+P293,Jeremy Reed,Physical Sciences,Day 4,Maharashtra,IIT Madras,6.9,7.1,8.2,7.4,"Good presentation on Astronomical Observations, though the data could be more focused.",Astronomical Observations
+P294,Margaret Coleman,Engineering Sciences,Day 4,Haryana,Mumbai University,7.7,7.4,9.6,8.2,"Decent work on Robotics, would benefit from more more structured examples.",Robotics
+P295,Ryan Gonzalez,Life Sciences,Day 1,Telangana,SRM Chennai,5.1,9.1,6.4,6.9,The work on Microbiology could benefit from more comprehensive references.,Microbiology
+P296,John Young,Social Sciences,Day 2,Tamil Nadu,IIT Kanpur,8.3,6.3,9.1,7.9,The presentation on Economic Policy lacked more coherent evidence.,Economic Policy
+P297,Laura Haney,Physical Sciences,Day 3,Tamil Nadu,NIT Trichy,8.0,9.0,8.5,8.5,The presentation on Materials Science lacked better designed evidence.,Materials Science
+P298,William Barrett,Life Sciences,Day 2,Uttar Pradesh,VIT Vellore,5.9,5.2,5.3,5.5,Interesting approach to Neuroscience. The methodology could be more focused.,Neuroscience
+P299,Keith Jennings,Physical Sciences,Day 1,Telangana,SRM Chennai,9.0,6.7,5.9,7.2,Research on Materials Science requires more stronger methodology.,Materials Science
+P300,Amber Obrien,Engineering Sciences,Day 2,Punjab,IIT Kharagpur,9.2,9.3,9.8,9.4,Great insights into Renewable Energy. The visual representation was insightful.,Renewable Energy
+P301,Tanner Mitchell DDS,Engineering Sciences,Day 3,Gujarat,Delhi University,9.9,8.7,7.2,8.6,"Decent work on Machine Learning, would benefit from more more structured examples.",Machine Learning
+P302,Heather Fields,Life Sciences,Day 3,Delhi,IIIT Hyderabad,6.9,8.7,6.5,7.4,Excellent presentation on Microbiology. The research methodology was insightful.,Microbiology
+P303,Megan Le,Physical Sciences,Day 1,Tamil Nadu,SRM Chennai,9.6,9.8,6.1,8.5,"Decent work on Astronomical Observations, would benefit from more more detailed examples.",Astronomical Observations
+P304,Sara Fuller,Social Sciences,Day 1,Delhi,Mumbai University,5.8,9.4,5.4,6.9,"Nice effort on Cultural Studies, but the analysis needs to be more better organized.",Cultural Studies
+P305,Maria Parker,Engineering Sciences,Day 3,Delhi,NIT Surathkal,6.8,8.9,8.6,8.1,Great insights into Renewable Energy. The visual representation was rigorous.,Renewable Energy
+P306,Kevin Oconnor,Life Sciences,Day 4,Uttar Pradesh,Pune University,7.7,5.5,7.4,6.9,The poster about Neuroscience needs more more coherent analysis.,Neuroscience
+P307,Edward Burgess,Physical Sciences,Day 1,Maharashtra,BITS Hyderabad,6.6,9.8,5.4,7.3,Great insights into Quantum Physics. The visual representation was comprehensive.,Quantum Physics
+P308,Carlos Ryan,Engineering Sciences,Day 1,Telangana,SRM Chennai,9.5,8.5,7.2,8.4,"Standard research on Sustainable Architecture, could use more better organized perspectives.",Sustainable Architecture
+P309,Kiara Mcintyre,Life Sciences,Day 1,Karnataka,Delhi University,9.9,7.0,7.8,8.2,The study on Microbiology needs better designed clarification.,Microbiology
+P310,Dawn Summers,Social Sciences,Day 3,Delhi,IIT Kanpur,7.0,7.7,7.5,7.4,Excellent presentation on Urban Development. The research methodology was rigorous.,Urban Development
+P311,Dr. Paul Morgan,Engineering Sciences,Day 3,Kerala,SRM Chennai,6.0,5.1,5.9,5.7,Excellent presentation on Robotics. The research methodology was rigorous.,Robotics
+P312,Victor Taylor,Engineering Sciences,Day 3,West Bengal,Jadavpur University,9.5,6.3,8.2,8.0,Impressive work on Robotics. The analysis was rigorous and thorough.,Robotics
+P313,Shannon Ramsey,Social Sciences,Day 2,Uttar Pradesh,IIT Delhi,7.2,6.3,9.2,7.6,"Good presentation on Cultural Studies, though the data could be clearer.",Cultural Studies
+P314,Tracy Ballard,Engineering Sciences,Day 3,Rajasthan,Anna University,6.1,5.3,6.9,6.1,"Standard research on Sustainable Architecture, could use more better organized perspectives.",Sustainable Architecture
+P315,Richard Smith,Life Sciences,Day 4,Gujarat,IIT Madras,9.5,8.6,7.5,8.5,The study on Biotechnology needs more comprehensive clarification.,Biotechnology
+P316,Jordan Chambers,Life Sciences,Day 1,Uttar Pradesh,NIT Trichy,9.9,9.0,5.6,8.2,Great insights into Microbiology. The visual representation was comprehensive.,Microbiology
+P317,Lauren Carson,Life Sciences,Day 3,Telangana,IIT Madras,6.9,7.0,6.6,6.8,Great insights into Genetic Engineering. The visual representation was innovative.,Genetic Engineering
+P318,Ashley Hall,Physical Sciences,Day 1,West Bengal,IIT Kharagpur,7.8,7.9,9.8,8.5,Excellent presentation on Materials Science. The research methodology was insightful.,Materials Science
+P319,Stephen Hoffman,Engineering Sciences,Day 3,Rajasthan,Mumbai University,6.3,8.3,7.9,7.5,Very informative poster about Robotics. The results were detailed.,Robotics
+P320,Connie Brown,Physical Sciences,Day 2,Punjab,SRM Chennai,5.2,9.4,6.7,7.1,Great insights into Climate Modeling. The visual representation was detailed.,Climate Modeling
+P321,Susan Turner,Social Sciences,Day 1,Telangana,BITS Hyderabad,6.4,7.5,8.5,7.5,Very informative poster about Cultural Studies. The results were comprehensive.,Cultural Studies
+P322,Charles Shah,Social Sciences,Day 4,Telangana,BITS Pilani,8.0,5.4,7.2,6.9,The work on Educational Reform could benefit from more robust references.,Educational Reform
+P323,Johnathan Davis,Social Sciences,Day 1,Rajasthan,NIT Trichy,6.6,7.5,5.7,6.6,The study on Urban Development needs stronger clarification.,Urban Development
+P324,Brandy Chavez,Life Sciences,Day 2,Delhi,IIT Delhi,5.2,5.3,6.8,5.8,Impressive work on Microbiology. The analysis was rigorous and thorough.,Microbiology
+P325,Natalie Bautista,Physical Sciences,Day 1,Kerala,IIT Bombay,6.9,8.0,5.9,6.9,The study on Materials Science needs more comprehensive clarification.,Materials Science
+P326,Patrick Moore,Social Sciences,Day 3,Tamil Nadu,BITS Pilani,6.4,6.9,5.8,6.4,"Good presentation on Urban Development, though the data could be more detailed.",Urban Development
+P327,Brett Burns,Life Sciences,Day 2,Gujarat,Anna University,5.1,8.9,8.8,7.6,Very informative poster about Ecology. The results were comprehensive.,Ecology
+P328,Trevor Johnson,Engineering Sciences,Day 2,Gujarat,SRM Chennai,8.6,8.5,6.4,7.8,Research on IoT Applications requires more more robust methodology.,IoT Applications
+P329,Jeremy Sampson,Social Sciences,Day 2,Uttar Pradesh,BITS Hyderabad,9.1,7.0,5.5,7.2,"Nice effort on Behavioral Psychology, but the analysis needs to be more more focused.",Behavioral Psychology
+P330,Ariana Jennings,Social Sciences,Day 3,Kerala,IIT Kanpur,5.3,9.9,8.2,7.8,Research on Educational Reform requires more better designed methodology.,Educational Reform
+P331,Vanessa Howard,Life Sciences,Day 2,Rajasthan,NIT Surathkal,9.0,9.0,8.0,8.7,"Good presentation on Genetic Engineering, though the data could be clearer.",Genetic Engineering
+P332,Colton Martinez,Physical Sciences,Day 3,Gujarat,Anna University,6.9,5.2,8.5,6.9,"Good presentation on Climate Modeling, though the data could be more structured.",Climate Modeling
+P333,Jordan Bates,Life Sciences,Day 4,Kerala,Mumbai University,6.5,5.8,8.3,6.9,"Nice effort on Ecology, but the analysis needs to be more clearer.",Ecology
+P334,Linda Smith,Physical Sciences,Day 2,Haryana,BITS Pilani,8.8,5.9,8.4,7.7,Excellent presentation on Chemical Synthesis. The research methodology was comprehensive.,Chemical Synthesis
+P335,Dana Martinez,Social Sciences,Day 2,Haryana,BITS Hyderabad,8.9,6.7,6.3,7.3,Excellent presentation on Educational Reform. The research methodology was rigorous.,Educational Reform
+P336,Andrea Hubbard,Engineering Sciences,Day 1,Uttar Pradesh,NIT Warangal,5.6,8.4,7.6,7.2,Very informative poster about Sustainable Architecture. The results were comprehensive.,Sustainable Architecture
+P337,Daniel Kane,Life Sciences,Day 3,West Bengal,IIIT Hyderabad,5.7,9.3,5.9,7.0,Impressive work on Biotechnology. The analysis was comprehensive and thorough.,Biotechnology
+P338,Charles Lester,Social Sciences,Day 1,Maharashtra,Bangalore University,6.0,8.9,7.9,7.6,Excellent presentation on Cultural Studies. The research methodology was comprehensive.,Cultural Studies
+P339,Scott Thomas,Physical Sciences,Day 4,West Bengal,Anna University,6.9,5.2,6.0,6.0,Excellent presentation on Climate Modeling. The research methodology was detailed.,Climate Modeling
+P340,David Thompson,Life Sciences,Day 1,Kerala,IIT Bombay,6.1,9.4,6.6,7.4,Fascinating research on Microbiology. The conclusions were insightful.,Microbiology
+P341,Allison Smith,Social Sciences,Day 2,Karnataka,IIT Delhi,9.7,7.3,7.6,8.2,"Decent work on Cultural Studies, would benefit from more more detailed examples.",Cultural Studies
+P342,Cynthia Morris,Social Sciences,Day 4,Telangana,NIT Warangal,9.7,9.6,7.0,8.8,Very informative poster about Economic Policy. The results were comprehensive.,Economic Policy
+P343,Anthony Harmon,Engineering Sciences,Day 2,Karnataka,Mumbai University,6.9,8.2,8.9,8.0,"Standard research on Renewable Energy, could use more clearer perspectives.",Renewable Energy
+P344,Nichole Alvarez,Engineering Sciences,Day 1,Maharashtra,IIT Kanpur,7.2,5.6,6.3,6.4,"Good presentation on Robotics, though the data could be clearer.",Robotics
+P345,Kayla Rodriguez,Social Sciences,Day 4,Kerala,IIT Kanpur,6.3,8.0,5.7,6.7,The presentation on Behavioral Psychology lacked more comprehensive evidence.,Behavioral Psychology
+P346,Theresa Williams,Engineering Sciences,Day 3,Karnataka,IIT Kanpur,6.0,6.0,6.3,6.1,"Good presentation on Robotics, though the data could be more structured.",Robotics
+P347,Sharon Boyd,Physical Sciences,Day 3,Tamil Nadu,IIT Delhi,7.5,6.0,9.7,7.7,Excellent presentation on Chemical Synthesis. The research methodology was innovative.,Chemical Synthesis
+P348,Victor Brown,Engineering Sciences,Day 1,Punjab,Jadavpur University,9.7,8.9,5.4,8.0,"Nice effort on Machine Learning, but the analysis needs to be more more detailed.",Machine Learning
+P349,James Parks,Physical Sciences,Day 3,Gujarat,Bangalore University,5.5,5.9,5.2,5.5,Impressive work on Quantum Physics. The analysis was rigorous and thorough.,Quantum Physics
+P350,Theodore Jones Jr.,Engineering Sciences,Day 1,Maharashtra,IIT Bombay,8.3,5.9,6.8,7.0,Fascinating research on Machine Learning. The conclusions were detailed.,Machine Learning
+P351,Ana Hill,Engineering Sciences,Day 3,Telangana,NIT Trichy,7.0,9.8,6.4,7.7,Great insights into Renewable Energy. The visual representation was rigorous.,Renewable Energy
+P352,Kimberly Nguyen,Life Sciences,Day 1,Tamil Nadu,IIT Delhi,5.5,9.6,7.4,7.5,"Decent work on Microbiology, would benefit from more more detailed examples.",Microbiology
+P353,Kerry Chavez DDS,Physical Sciences,Day 3,Punjab,IIT Bombay,7.4,7.4,9.4,8.1,Excellent presentation on Materials Science. The research methodology was detailed.,Materials Science
+P354,Michael Farrell,Social Sciences,Day 1,Haryana,Amity University,8.6,6.1,9.8,8.2,The study on Behavioral Psychology needs more comprehensive clarification.,Behavioral Psychology
+P355,Patricia Le,Engineering Sciences,Day 4,Kerala,NIT Surathkal,6.7,8.4,6.9,7.3,The study on Robotics needs more comprehensive clarification.,Robotics
+P356,Jesse Perez,Engineering Sciences,Day 1,Kerala,NIT Trichy,9.2,9.3,9.3,9.3,Great insights into Sustainable Architecture. The visual representation was detailed.,Sustainable Architecture
+P357,Jesse Perry,Life Sciences,Day 3,Gujarat,IIT Delhi,6.1,8.2,7.0,7.1,Great insights into Ecology. The visual representation was rigorous.,Ecology
+P358,Jeffery Ortega,Physical Sciences,Day 1,Uttar Pradesh,Bangalore University,5.6,7.5,8.3,7.1,Great insights into Astronomical Observations. The visual representation was innovative.,Astronomical Observations
+P359,Christian Leblanc,Engineering Sciences,Day 1,Punjab,SRM Chennai,9.5,7.8,8.3,8.5,Impressive work on IoT Applications. The analysis was detailed and thorough.,IoT Applications
+P360,Ronald Davis,Engineering Sciences,Day 2,Uttar Pradesh,Delhi University,8.8,8.0,8.6,8.5,Great insights into Sustainable Architecture. The visual representation was innovative.,Sustainable Architecture
+P361,Parker Cain,Engineering Sciences,Day 2,Maharashtra,Delhi University,9.1,9.8,6.5,8.5,Interesting approach to IoT Applications. The methodology could be clearer.,IoT Applications
+P362,Laurie Hoffman,Life Sciences,Day 4,Tamil Nadu,Anna University,6.3,6.0,5.6,6.0,The poster about Genetic Engineering needs more more robust analysis.,Genetic Engineering
+P363,Bryan Gomez,Life Sciences,Day 3,Karnataka,Anna University,9.6,9.2,7.9,8.9,"Decent work on Genetic Engineering, would benefit from more better organized examples.",Genetic Engineering
+P364,Nicole Parrish,Life Sciences,Day 4,Maharashtra,Amity University,7.8,7.2,7.9,7.6,The poster about Genetic Engineering needs more more comprehensive analysis.,Genetic Engineering
+P365,Tracy Burke,Life Sciences,Day 2,Karnataka,Pune University,8.0,6.6,9.4,8.0,Fascinating research on Ecology. The conclusions were comprehensive.,Ecology
+P366,Kenneth Lewis,Social Sciences,Day 4,Telangana,BITS Hyderabad,9.0,5.7,8.0,7.6,The study on Educational Reform needs better designed clarification.,Educational Reform
+P367,Courtney Rodriguez,Social Sciences,Day 2,Delhi,NIT Warangal,8.6,8.4,9.6,8.9,Very informative poster about Behavioral Psychology. The results were insightful.,Behavioral Psychology
+P368,Holly Farmer,Social Sciences,Day 1,Telangana,VIT Vellore,7.9,9.7,8.6,8.7,"Standard research on Educational Reform, could use more more structured perspectives.",Educational Reform
+P369,Renee Bruce,Physical Sciences,Day 1,Rajasthan,IIT Kanpur,6.9,5.3,5.3,5.8,Very informative poster about Quantum Physics. The results were detailed.,Quantum Physics
+P370,Sabrina Austin,Social Sciences,Day 2,Maharashtra,BITS Hyderabad,8.8,5.2,9.1,7.7,Fascinating research on Economic Policy. The conclusions were comprehensive.,Economic Policy
+P371,Allison Hickman,Physical Sciences,Day 2,Rajasthan,BITS Hyderabad,9.6,6.9,9.8,8.8,Research on Quantum Physics requires more more comprehensive methodology.,Quantum Physics
+P372,Debra White,Engineering Sciences,Day 1,Haryana,BITS Pilani,8.1,8.9,9.4,8.8,Research on Machine Learning requires more more comprehensive methodology.,Machine Learning
+P373,Ellen Morgan,Life Sciences,Day 2,Gujarat,Bangalore University,9.9,5.4,9.8,8.4,Interesting approach to Microbiology. The methodology could be better organized.,Microbiology
+P374,Sergio Knight,Engineering Sciences,Day 4,Gujarat,VIT Vellore,5.7,7.9,6.3,6.6,Very informative poster about IoT Applications. The results were innovative.,IoT Applications
+P375,Charles Schultz,Life Sciences,Day 3,Punjab,IIT Delhi,9.2,6.5,8.9,8.2,Interesting approach to Ecology. The methodology could be more structured.,Ecology
+P376,Paul Lewis,Life Sciences,Day 2,Rajasthan,IIT Madras,5.8,7.7,7.0,6.8,Very informative poster about Ecology. The results were detailed.,Ecology
+P377,Glen Wood,Social Sciences,Day 3,Gujarat,NIT Warangal,7.7,10.0,9.1,8.9,The presentation on Behavioral Psychology lacked stronger evidence.,Behavioral Psychology
+P378,Paula Bradley,Social Sciences,Day 4,Delhi,SRM Chennai,6.2,5.2,9.4,6.9,Excellent presentation on Behavioral Psychology. The research methodology was rigorous.,Behavioral Psychology
+P379,Anthony Moore,Social Sciences,Day 3,Maharashtra,Amity University,7.6,7.5,7.4,7.5,Very informative poster about Cultural Studies. The results were detailed.,Cultural Studies
+P380,Megan Nelson,Engineering Sciences,Day 1,Tamil Nadu,VIT Vellore,5.0,5.3,8.4,6.2,"Decent work on Sustainable Architecture, would benefit from more clearer examples.",Sustainable Architecture
+P381,Karla Ramos,Life Sciences,Day 4,Kerala,IIT Madras,5.1,8.6,5.2,6.3,Very informative poster about Microbiology. The results were detailed.,Microbiology
+P382,Paul Wilson,Engineering Sciences,Day 2,Gujarat,Anna University,7.3,7.0,6.6,7.0,Excellent presentation on Robotics. The research methodology was insightful.,Robotics
+P383,Douglas Gregory,Engineering Sciences,Day 1,Haryana,IIIT Hyderabad,8.5,5.4,9.6,7.8,Impressive work on Renewable Energy. The analysis was insightful and thorough.,Renewable Energy
+P384,Mr. Andrew Foster,Engineering Sciences,Day 3,Uttar Pradesh,Pune University,9.1,5.2,5.8,6.7,Great insights into Robotics. The visual representation was insightful.,Robotics
+P385,Aimee Turner,Social Sciences,Day 2,Gujarat,Mumbai University,7.8,7.8,5.6,7.1,Fascinating research on Urban Development. The conclusions were rigorous.,Urban Development
+P386,Chad Scott,Engineering Sciences,Day 3,Delhi,Mumbai University,7.1,8.2,7.6,7.6,Very informative poster about Machine Learning. The results were insightful.,Machine Learning
+P387,Adam Burgess,Social Sciences,Day 2,Karnataka,NIT Trichy,9.3,9.3,9.7,9.4,The work on Behavioral Psychology could benefit from more comprehensive references.,Behavioral Psychology
+P388,James Padilla,Engineering Sciences,Day 3,Kerala,IIT Madras,5.5,8.6,7.4,7.2,Very informative poster about IoT Applications. The results were comprehensive.,IoT Applications
+P389,Sandra Drake,Engineering Sciences,Day 3,Punjab,IIT Madras,6.6,7.3,8.1,7.3,Fascinating research on Machine Learning. The conclusions were comprehensive.,Machine Learning
+P390,Scott Williams,Social Sciences,Day 3,West Bengal,NIT Trichy,6.6,8.9,8.6,8.0,"Nice effort on Urban Development, but the analysis needs to be more more structured.",Urban Development
+P391,Thomas Atkins,Life Sciences,Day 3,Uttar Pradesh,Bangalore University,6.8,6.5,7.8,7.0,Fascinating research on Biotechnology. The conclusions were innovative.,Biotechnology
+P392,Laura Mckinney,Social Sciences,Day 2,Rajasthan,NIT Warangal,8.7,8.1,8.6,8.5,The study on Cultural Studies needs stronger clarification.,Cultural Studies
+P393,Brian Smith,Physical Sciences,Day 2,Maharashtra,VIT Vellore,7.7,10.0,7.4,8.4,"Nice effort on Astronomical Observations, but the analysis needs to be more better organized.",Astronomical Observations
+P394,Robert Montgomery,Life Sciences,Day 3,Tamil Nadu,Bangalore University,7.6,7.0,7.5,7.4,"Standard research on Ecology, could use more more detailed perspectives.",Ecology
+P395,Tamara Davis,Life Sciences,Day 4,Tamil Nadu,NIT Trichy,9.7,8.3,9.8,9.3,"Decent work on Ecology, would benefit from more more structured examples.",Ecology
+P396,Dana Chapman,Engineering Sciences,Day 2,Uttar Pradesh,NIT Surathkal,6.3,6.2,8.3,6.9,"Nice effort on Renewable Energy, but the analysis needs to be more better organized.",Renewable Energy
+P397,Jennifer Collins,Physical Sciences,Day 4,Maharashtra,IIT Delhi,5.5,9.8,8.2,7.8,Impressive work on Astronomical Observations. The analysis was insightful and thorough.,Astronomical Observations
+P398,Gary Jackson,Life Sciences,Day 4,Kerala,Pune University,7.9,9.5,5.4,7.6,Very informative poster about Neuroscience. The results were insightful.,Neuroscience
+P399,Ashley Hicks,Physical Sciences,Day 3,Telangana,Jadavpur University,9.4,5.0,9.4,7.9,Very informative poster about Climate Modeling. The results were innovative.,Climate Modeling
+P400,Hannah Luna,Social Sciences,Day 2,Tamil Nadu,NIT Trichy,6.8,8.6,5.6,7.0,Impressive work on Economic Policy. The analysis was innovative and thorough.,Economic Policy
